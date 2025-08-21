@@ -1,3 +1,3 @@
 # Ini adalah respository untuk latihan membuat branch baru di GitHub...
-
 mebambahkan fitur 2
+menambahkan fitur 1
